@@ -81,5 +81,5 @@ feed:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy: 
   type: git
-  repo: ssh://git@github.com/RemoteSensingFrank/RemoteSensingFrank.github.io.git
+  repo: git@github.com:RemoteSensingFrank/RemoteSensingFrank.github.io.git
 branch: master
